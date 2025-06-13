@@ -1,1 +1,1 @@
-# TP5_-Multi-Class-Neural-Network-for-Tifinagh-Character-Recognition
+# TP5_Multi Class Neural Network for Tifinagh Character Recognition
